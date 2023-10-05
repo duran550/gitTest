@@ -1,3 +1,7 @@
-Learning Git from free code camp.
+# Learning Git from free code camp.
 
-Some usefull description.
+Some usefull description. 
+
+## Subheader
+
+This is my first full complete course on github.
